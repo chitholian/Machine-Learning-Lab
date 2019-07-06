@@ -1,0 +1,8 @@
+.idea
+.vscode
+.RData
+.Rhistory
+Documents
+Pictures
+Python/env
+Python/__pycache__
