@@ -5,9 +5,45 @@ This is an educational repository containing the codes and other materials done 
 
 ### Tasks Done:
 
-- Neural Network (ANN): Confusion-Matrix in Python and R
-- Neural Network (ANN): Class-Label Prediction in Python and R
-- Neural Network (ANN): k-fold Cross-Validation in Python and R
-- Support Vector Machine (SVM): Confusion-Matrix in Python and R
-- Support Vector Machine (SVM): Class-Label Prediction in Python and R
-- Support Vector Machine (SVM): k-fold Cross-Validation in Python and R
+
+- Decision Tree (DT)
+    - Confusion-Matrix
+        - R
+    - Class-Label Prediction
+        - R
+    - k-fold Cross-Validation
+        - R
+- Naive Bayes (NB)
+    - Confusion-Matrix
+        - R
+    - Class-Label Prediction
+        - R
+    - k-fold Cross-Validation
+        - R
+- Rule Based (RB)
+    - Confusion-Matrix
+        - R
+    - Class-Label Prediction
+        - R
+    - k-fold Cross-Validation
+        - R
+- Neural Network (ANN)
+    - Confusion-Matrix
+        - Python
+        - R
+    - Class-Label Prediction
+        - Python
+        - R
+    - k-fold Cross-Validation
+        - Python
+        - R
+- Support Vector Machine (SVM)
+    - Confusion-Matrix
+        - Python
+        - R
+    - Class-Label Prediction
+        - Python
+        - R
+    - k-fold Cross-Validation
+        - Python
+        - R

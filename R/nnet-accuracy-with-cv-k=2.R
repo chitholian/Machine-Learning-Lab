@@ -1,10 +1,10 @@
-setwd('/mnt/LinuxData/CSE/7th-Semester/CSE-716/Lab-Assignments/') # Set working directory.
 # Load the required libraries.
 library(RWeka)
 library(caret)
 library(nnet)
 # Read the whole dataset.
-data <- read.csv(file.choose())
+data <- read.csv('../Datasets/training-data-14-tuples.csv')
+#data <- read.csv(file.choose())
 # Create folds, i.e. split into training and test dataset.
 kfolds <- createFolds(data$buys_computer, k = 2)
 sum = 0 # Initial sum of accuracy.

@@ -1,7 +1,7 @@
-setwd('/mnt/LinuxData/CSE/7th-Semester/CSE-716/Lab-Assignments/')
 library(RWeka)
 library(caret)
-data <- read.csv(file.choose())
+data <- read.csv('../Datasets/training-data-14-tuples.csv')
+#data <- read.csv(file.choose())
 kfolds <- createFolds(data$buys_computer, k = 2)
 sum = 0
 for(i in kfolds){
